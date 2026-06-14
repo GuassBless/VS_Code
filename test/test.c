@@ -8,6 +8,6 @@ int main()
 		printf("%d\n",n);
 		n++;
 	}
-	printf("定金接地气去奋斗去\n");
+	printf("我是谁？\n");
 	return 0;
 }
