@@ -9,5 +9,6 @@ int main()
 		n++;
 	}
 	printf("我是谁？\n");
+	printf("这是一个测试代码\n");
 	return 0;
 }
